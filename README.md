@@ -1,4 +1,4 @@
-Web Entwicklung 2 WS 2013/2014
+Web Entwicklung 2 WS 2014/2015
 ========
 
 Hier findet ihr die Vorlesungsfolien, Ankündigungen, usw. 
@@ -23,4 +23,4 @@ Links
 Weiteres:
 -----------
 
-* Rückfragen an die Dozenten: we2@zweitag.de
+* Rückfragen an die Dozenten: michael.johann@fh-muenster.de
