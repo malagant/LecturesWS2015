@@ -22,4 +22,4 @@ Links
 Weiteres:
 -----------
 
-* Rückfragen an die Dozenten: michael.johann@fh-muenster.de
+* Rückfragen an den Dozenten: michael.johann@fh-muenster.de
