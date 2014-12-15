@@ -9,7 +9,7 @@ Termine
 
 * Termin für Gruppenregistrierung: 20.12.2014
 * Start der Gruppenprojekte: 20.12.2014.
-* Abgabe der Gruppenprojekte: Ende der Klausurenphase.
+* Abgabe der Gruppenprojekte: 27.02.2014.
 * Notenvergabe: spätestens 31.03.2015.
 
 
