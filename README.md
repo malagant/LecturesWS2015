@@ -1,4 +1,4 @@
-Web Entwicklung 2 WS 2014/2015
+Web Entwicklung 2 WS 2015/2016
 ========
 
 Hier findet ihr die Vorlesungsfolien, Ankündigungen, usw. 
@@ -7,16 +7,16 @@ Hier findet ihr die Vorlesungsfolien, Ankündigungen, usw.
 Termine
 -----------
 
-* Termin für Gruppenregistrierung: 20.12.2014
-* Start der Gruppenprojekte: 20.12.2014.
-* Abgabe der Gruppenprojekte: 27.02.2014.
-* Notenvergabe: spätestens 31.03.2015.
+* Termin für Gruppenregistrierung: 18.12.2015
+* Start der Gruppenprojekte: 18.12.2015.
+* Abgabe der Gruppenprojekte: TBD
+* Notenvergabe: spätestens TBD
 
 
 Links
 -----------
 
-* Link zur Gruppenregistrierung: http://goo.gl/forms/5pfqkXLOQ4
+* Link zur Gruppenregistrierung: TBD
 
 
 Weiteres:
