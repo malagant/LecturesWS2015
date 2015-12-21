@@ -7,16 +7,16 @@ Hier findet ihr die Vorlesungsfolien, Ankündigungen, usw.
 Termine
 -----------
 
-* Termin für Gruppenregistrierung: 18.12.2015
-* Start der Gruppenprojekte: 18.12.2015.
-* Abgabe der Gruppenprojekte: TBD
-* Notenvergabe: spätestens TBD
+* Termin für Gruppenregistrierung: 08.01.2015
+* Start der Gruppenprojekte: 21.12.2015.
+* Abgabe der Gruppenprojekte: Ende der Klausurenphase
+* Notenvergabe: spätestens ca. 3-4 Wochen nach Abgabe
 
 
 Links
 -----------
 
-* Link zur Gruppenregistrierung: TBD
+* Link zur Gruppenregistrierung: https://docs.google.com/forms/d/1ij8nuiaK3yyurIM-JrRmBimTHsfevME0tGFUFvwVCFg/viewform?usp=send_form
 
 
 Weiteres:
