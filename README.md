@@ -9,7 +9,7 @@ Termine
 
 * Termin für Gruppenregistrierung: 08.01.2015
 * Start der Gruppenprojekte: 21.12.2015.
-* Abgabe der Gruppenprojekte: Ende der Klausurenphase
+* Abgabe der Gruppenprojekte: 29.02.2015 
 * Notenvergabe: spätestens ca. 3-4 Wochen nach Abgabe
 
 
